@@ -13,5 +13,7 @@ LINK https://datahack.analyticsvidhya.com/contest/hikeathon/
 Research Papers Studied: 
 
 https://arxiv.org/pdf/1411.5118.pdf
+
 http://www.leonidzhukov.net/hse/2016/networks/papers/SNDA11.pdf
+
 http://www.leonidzhukov.net/hse/2016/networks/papers/NowellKleinberg07linkprediction.pdf
